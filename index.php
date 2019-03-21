@@ -1,5 +1,4 @@
-
-<title>WordPressNepal.com</title>
+<title>WordPressNepal.com - Wordpress Nepal</title>
 <style>
 body {
 display:flex;
@@ -24,7 +23,7 @@ a {
     color:#bbb;
 }
 </style>
-<strong><img src="wordpress-logo.svg"><br>************** WordPressNepal.com - Nepal ************** <br>
+<strong><img src="wordpress-logo.svg"><br>WordPressNepal.com - Wordpress Nepal<br>
 <br>info@wordpressnepal.com
 <br>
 <span>
